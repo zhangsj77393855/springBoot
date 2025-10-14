@@ -1,0 +1,5 @@
+
+t
+java:S3305"YInject this field value directly into "getMemcachedClient", the only method that uses it.(¡‘šùÿÿÿÿ
+}
+java:S1488"gImmediately return this expression instead of assigning it to the temporary variable "memcachedClient".(Áéœ§

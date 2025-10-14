@@ -1,0 +1,17 @@
+server:
+  port: 8088
+
+spring:
+  boot:
+    admin:
+      client:
+        url: http://localhost:9075
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+

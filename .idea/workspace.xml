@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76f9753f-84ec-4c6b-b9b2-7938775d2838" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="F:\.m2\repository" />
+        <option name="mavenHome" value="F:\idea\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.3\apache-maven-3.6.3\apache-maven-3.6.3\conf\settings -aliyun.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2SWUBsSeGVJfl9MKeFJZy4eUC4X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editorconfig.notification" value="lf   " />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../最全微服务/实用篇/学习资料/day01-SpringCloud01/代码/cloud-demo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\SpringBoot2\SpringBoot2\原理篇-资料\springboot源代码（完整版）" />
+      <recent name="E:\workspace\SpringBoot2\SpringBoot2\原理篇-资料\springboot源代码（完整版）\springboot_08_ssmp\src\main\resources\bb" />
+      <recent name="E:\workspace\SpringBoot2\SpringBoot2\原理篇-资料\springboot源代码（完整版）\springboot_08_ssmp\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.itheima" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\SpringBoot2\SpringBoot2\原理篇-资料\springboot源代码（完整版）" />
+      <recent name="E:\workspace\SpringBoot2\SpringBoot2\原理篇-资料\springboot源代码（完整版）\springboot_08_ssmp\src\main\resources\bb" />
+      <recent name="E:\workspace\SpringBoot2\SpringBoot2\原理篇-资料\springboot源代码（完整版）\springboot_08_ssmp\src\main\resources" />
+      <recent name="E:\workspace\SpringBoot2\SpringBoot2\原理篇-资料\springboot源代码（完整版）\springboot_08_ssmp\src\main\resources\aaa" />
+      <recent name="E:\SpringBoot2\原理篇-资料\springboot源代码（完整版）\springboot_15_sql\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Springboot16RedisApplicationTests.get">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigurationTest.testConfiguration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_14_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ConfigurationTest" />
+      <option name="METHOD_NAME" value="testConfiguration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_14_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.DaoTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot16RedisApplicationTests.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_16_redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Springboot16RedisApplicationTests" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot16RedisApplicationTests.set" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_16_redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Springboot16RedisApplicationTests" />
+      <option name="METHOD_NAME" value="set" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTest.testWeb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_14_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.WebTest" />
+      <option name="METHOD_NAME" value="testWeb(org.springframework.test.web.servlet.MockMvc)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_02_base_configuration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSMPApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_12_hot_deploy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.SSMPApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0102QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_02_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot0102QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot0103QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_01_03_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot0103QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04JunitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_04_junit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot04JunitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_05_mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot05MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot06MybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_06_mybatis_plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot06MybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07DruidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_07_druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot07DruidApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot09ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_09_config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot09ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot13ConfigurationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_13_configuration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot13ConfigurationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot14TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_14_test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot14TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot15SqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_15_sql" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot15SqlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot16RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_16_redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot16RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot17MongodbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_17_mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot17MongodbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot18EsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_18_es" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot18EsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot19CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_19_cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot19CacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot20JetCacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_20_jetcache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot20JetCacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot21J2CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_21_j2cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot21J2CacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot22TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_22_task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot22TaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot23MailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_23_mail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot23MailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot24MqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_24_mq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot24MqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot25AdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_25_admin_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot25AdminServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot26AdminClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_26_admin_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Springboot26AdminClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ConfigurationTest.testConfiguration" />
+      <item itemvalue="JUnit.WebTest.testWeb" />
+      <item itemvalue="JUnit.DaoTest.testSave" />
+      <item itemvalue="JUnit.Springboot16RedisApplicationTests.set" />
+      <item itemvalue="JUnit.Springboot16RedisApplicationTests.get" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Springboot04JunitApplication" />
+      <item itemvalue="Spring Boot.Springboot05MybatisApplication" />
+      <item itemvalue="Spring Boot.Springboot06MybatisPlusApplication" />
+      <item itemvalue="Spring Boot.Springboot07DruidApplication" />
+      <item itemvalue="Spring Boot.Springboot09ConfigApplication" />
+      <item itemvalue="Spring Boot.Springboot13ConfigurationApplication" />
+      <item itemvalue="Spring Boot.Springboot14TestApplication" />
+      <item itemvalue="Spring Boot.Springboot15SqlApplication" />
+      <item itemvalue="Spring Boot.Springboot16RedisApplication" />
+      <item itemvalue="Spring Boot.Springboot17MongodbApplication" />
+      <item itemvalue="Spring Boot.Springboot18EsApplication" />
+      <item itemvalue="Spring Boot.Springboot19CacheApplication" />
+      <item itemvalue="Spring Boot.Springboot20JetCacheApplication" />
+      <item itemvalue="Spring Boot.Springboot21J2CacheApplication" />
+      <item itemvalue="Spring Boot.Springboot22TaskApplication" />
+      <item itemvalue="Spring Boot.Springboot23MailApplication" />
+      <item itemvalue="Spring Boot.Springboot24MqApplication" />
+      <item itemvalue="Spring Boot.Springboot25AdminServerApplication" />
+      <item itemvalue="Spring Boot.Springboot26AdminClientApplication" />
+      <item itemvalue="Spring Boot.Springboot0102QuickstartApplication" />
+      <item itemvalue="Spring Boot.Springboot0103QuickstartApplication" />
+      <item itemvalue="Spring Boot.SSMPApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot16RedisApplicationTests.get" />
+        <item itemvalue="JUnit.Springboot16RedisApplicationTests.set" />
+        <item itemvalue="JUnit.DaoTest.testSave" />
+        <item itemvalue="JUnit.WebTest.testWeb" />
+        <item itemvalue="JUnit.ConfigurationTest.testConfiguration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76f9753f-84ec-4c6b-b9b2-7938775d2838" name="Default Changelist" comment="" />
+      <created>1689261697792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689261697792</updated>
+      <workItem from="1689261699224" duration="102000" />
+      <workItem from="1689261811161" duration="6148000" />
+      <workItem from="1689297528262" duration="17232000" />
+      <workItem from="1689348384619" duration="7255000" />
+      <workItem from="1689405384908" duration="14220000" />
+      <workItem from="1689556116239" duration="16030000" />
+      <workItem from="1689683640140" duration="1225000" />
+      <workItem from="1689685126067" duration="7675000" />
+      <workItem from="1689695321127" duration="2212000" />
+      <workItem from="1689729059166" duration="18394000" />
+      <workItem from="1689815395520" duration="7664000" />
+      <workItem from="1689843850957" duration="14697000" />
+      <workItem from="1689879496197" duration="15176000" />
+      <workItem from="1690103293050" duration="66000" />
+      <workItem from="1690424447349" duration="1898000" />
+      <workItem from="1691393750483" duration="67000" />
+      <workItem from="1692589931344" duration="4201000" />
+      <workItem from="1693192041693" duration="33000" />
+      <workItem from="1693206695527" duration="1308000" />
+      <workItem from="1693367009014" duration="612000" />
+      <workItem from="1693558521716" duration="2280000" />
+      <workItem from="1697448692927" duration="663000" />
+      <workItem from="1698219588712" duration="625000" />
+      <workItem from="1698224543857" duration="308000" />
+      <workItem from="1698907113865" duration="308000" />
+      <workItem from="1698907605867" duration="313000" />
+      <workItem from="1702287071586" duration="24000" />
+      <workItem from="1709623481143" duration="116000" />
+      <workItem from="1740031266803" duration="1072000" />
+      <workItem from="1740038820290" duration="724000" />
+      <workItem from="1740039566599" duration="4798000" />
+      <workItem from="1740479627649" duration="828000" />
+      <workItem from="1740536161652" duration="7228000" />
+      <workItem from="1740556387937" duration="434000" />
+      <workItem from="1740556843109" duration="2761000" />
+      <workItem from="1740559955098" duration="8272000" />
+      <workItem from="1740620666407" duration="2383000" />
+      <workItem from="1741088647194" duration="1888000" />
+      <workItem from="1741155470556" duration="13323000" />
+      <workItem from="1741217681248" duration="339000" />
+      <workItem from="1741260027757" duration="5527000" />
+      <workItem from="1741311858787" duration="644000" />
+      <workItem from="1760454595586" duration="585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="zhangchy1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="zhangchy1" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="98" key="#Project_Structure" timestamp="1741171860533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="98" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1741171860533" />
+    <state x="417" y="176" width="1086" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1740560353783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="417" y="176" width="1086" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1740560353783" />
+    <state x="691" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1740538860270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1740538860270" />
+    <state x="633" y="172" key="FileChooserDialogImpl" timestamp="1741217945900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="422" y="127" key="FileChooserDialogImpl/0.0.1280.770@0.0.1280.770" timestamp="1740031395760" />
+    <state x="633" y="172" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1741217945900" />
+    <state width="1878" height="263" key="GridCell.Tab.0.bottom" timestamp="1740578617585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1740039543631" />
+    <state width="1878" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1740578617585" />
+    <state width="1878" height="263" key="GridCell.Tab.0.center" timestamp="1740578617585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1740039543631" />
+    <state width="1878" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1740578617585" />
+    <state width="1878" height="263" key="GridCell.Tab.0.left" timestamp="1740578617585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1740039543630" />
+    <state width="1878" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1740578617585" />
+    <state width="1878" height="263" key="GridCell.Tab.0.right" timestamp="1740578617585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1740039543631" />
+    <state width="1878" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1740578617585" />
+    <state width="1864" height="2" key="GridCell.Tab.1.bottom" timestamp="1740578617583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="2" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1740578617583" />
+    <state width="1864" height="2" key="GridCell.Tab.1.center" timestamp="1740578617582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="2" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1740578617582" />
+    <state width="1864" height="2" key="GridCell.Tab.1.left" timestamp="1740578617582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="2" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1740578617582" />
+    <state width="1864" height="2" key="GridCell.Tab.1.right" timestamp="1740578617583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="2" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1740578617583" />
+    <state x="182" y="0" key="SettingsEditor" timestamp="1740564636061">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1740126438702" />
+    <state x="182" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1740564636061" />
+    <state x="201" y="122" key="SpringBootCustomization" timestamp="1740564635115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="201" y="122" key="SpringBootCustomization/0.0.1920.1040@0.0.1920.1040" timestamp="1740564635115" />
+    <state x="512" y="159" width="894" height="719" key="find.popup" timestamp="1741169738787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="341" y="118" width="596" height="532" key="find.popup/0.0.1280.770@0.0.1280.770" timestamp="1740031507399" />
+    <state x="512" y="159" width="894" height="719" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1741169738787" />
+    <state x="121" y="108" key="spring file set editor" timestamp="1740538253011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="121" y="108" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1740538253011" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot_14_test/src/test/java/com/itheima/WebTest.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot_18_es/src/main/java/com/itheima/dao/aspectj/ElasticsearchServiceImpl.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot_18_es/src/main/java/com/itheima/dao/aspectj/ElasticsearchAspect.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot_19_cache/src/main/java/com/itheima/service/impl/SMSCodeServiceImpl.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://F:/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.4/spring-boot-autoconfigure-2.5.4-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://F:/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.4/spring-boot-autoconfigure-2.5.4-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://F:/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.4/spring-boot-autoconfigure-2.5.4-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://F:/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.4/spring-boot-autoconfigure-2.5.4-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://F:/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.4/spring-boot-autoconfigure-2.5.4-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.java</url>
+          <line>211</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://F:/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.4/spring-boot-autoconfigure-2.5.4-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.java</url>
+          <line>212</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://F:/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.5.4/spring-boot-autoconfigure-2.5.4-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.java</url>
+          <line>222</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot_13_configuration/src/main/java/com/itheima/Springboot13ConfigurationApplication.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/springboot_18_es/src/test/java/com/itheima/Springboot18EsApplicationTests.java</url>
+          <line>58</line>
+          <properties class="com.itheima.Springboot18EsApplicationTests">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/springboot_18_es/src/test/java/com/itheima/Springboot18EsApplicationTests.java</url>
+          <line>162</line>
+          <properties class="com.itheima.Springboot18EsApplicationTests" method="testElasticsearchAspect">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/springboot_18_es/src/test/java/com/itheima/Springboot18EsApplicationTests.java</url>
+          <line>132</line>
+          <properties class="com.itheima.Springboot18EsApplicationTests" method="testGet">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

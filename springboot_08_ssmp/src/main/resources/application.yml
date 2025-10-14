@@ -1,0 +1,39 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/ssm?serverTimezone=UTC
+      username: root
+      password: 123456
+  boot:
+    admin:
+      client:
+        url: http://localhost:9075
+        instance:
+          service-base-url: http://127.0.0.1:8080
+management:
+  endpoint:
+    health:
+      show-details: always
+    info:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+info:
+  author: zsj
+  appName: @project.artifactId@
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: t_
+      id-type: auto
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+app:
+  name: ccApp
